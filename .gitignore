@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS and IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Data folders/files
+period_03/
+period_03.zip
+
+# Plot outputs (optional to track)
+plots/
