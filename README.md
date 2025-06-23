@@ -21,9 +21,9 @@ This project explores Facebook and Twitter political ads during the 2024 U.S. pr
    * Summary statistics:
 
      ```bash
-     python base_python_script.py
-     python pandas_script.py
-     python polars_script.py
+     python pure_python_stats.py
+     python pandas_stats.py
+     python polars_stats.py
      ```
    * Visualizations:
 
