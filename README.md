@@ -97,4 +97,30 @@ Task_03_Descriptive_Stats/
 └── README.md               # This file
 ```
 
+## 📈 Time Series Analysis (New) - Task 04
+
+A new notebook, `task04_summary.ipynb`, has been added to explore **temporal trends** in political ad data.
+
+### 🔍 Objective
+To visualize the relationship between the **daily number of ads** and **total spend over time** using Facebook’s 2024 U.S. presidential ad dataset.
+
+### 📊 Visualization
+The notebook introduces a dual-axis time series plot:
+- **Blue Line** – Ad Count per day  
+- **Red Dashed Line** – Total Spend per day (in $)
+
+This plot highlights significant surges in political advertising activity and expenditure as the election approaches, reflecting campaign intensification in late 2023 and 2024.
+
+<p align="center">
+  <img src="plots/ad count and total spend over time.png" alt="Ad Count and Spend Over Time" width="700"/>
+</p>
+
+> ✅ This analysis uses **Pandas** and **Matplotlib**, showcasing how simple tools can uncover powerful temporal trends in political advertising.
+
+### 📁 File
+- [`task04_summary.ipynb`](task04_summary.ipynb)
+
+
+
+
 *This analysis demonstrates the power of different Python approaches for statistical analysis, from foundational implementations to modern high-performance libraries.*
